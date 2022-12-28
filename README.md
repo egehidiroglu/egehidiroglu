@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [Minder](https://github.com/egehidiroglu/minder)
 
-- 🌱 I’m currently learning **Spring, nodejs**
+- 🌱 I’m currently working with **React, nodejs**
 
 - 👨‍💻 All of my projects are available at [github.com/egehidiroglu](github.com/egehidiroglu)
-
-- 💬 Ask me about **Java**
 
 - 📫 How to reach me **egehdrgl@gmail.com**
 
