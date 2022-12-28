@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ege Hidiroglu</h1>
 <h3 align="center">A passionate backend developer from Montreal</h3>
 
-- 🔭 I’m currently working on [Minder](https://github.com/egehidiroglu/minder)
-
 - 🌱 I’m currently working with **React, nodejs**
 
 - 👨‍💻 All of my projects are available at [github.com/egehidiroglu](github.com/egehidiroglu)
