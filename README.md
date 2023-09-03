@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ege Hidiroglu</h1>
 <h3 align="center">A passionate backend developer from Montreal</h3>
 
-- 🌱 I’m currently working with **React, nodejs**
+- 🌱 I’m currently working with **Python, Java, TypeScript, C++**
 
 - 👨‍💻 All of my projects are available at [github.com/egehidiroglu](github.com/egehidiroglu)
 
